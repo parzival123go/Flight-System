@@ -1,0 +1,7 @@
+Port-of-Spain	POS		Trinidad-and-Tobago	1000
+Miami		MIA		USA		2000
+Toronto		YYZ		Canada		4000
+New-York		JFK		USA		5000
+Los-Angeles	LAX		USA		10000
+Bridgetown		BGI		Barbados		1000
+END
